@@ -1,6 +1,6 @@
 # Git_Secret
 
-### find github secrets like passwords, token 
+### Git_Secret is a  tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.
 
 
 
