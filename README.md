@@ -10,5 +10,5 @@ Scanning Github Repo for secrets like passwords, api keys, and tokens .
 
 
 
-
-Thanks to trufflehog and  tomnomnom
+### Credits and Thanks
+ trufflehog and  tomnomnom
